@@ -1,5 +1,5 @@
 # IXDD301 - Little Wing Project 
-##PIZZALMPICS
+##PIZZALYMPICS
 
 + [PDF of Game Concept](https://www.dropbox.com/s/uog11hb3av98m2s/Pizzalympics.pdf?dl=0)
 + [Static App Screens](https://www.flickr.com/photos/127785088@N07/albums/72157661110853341)
